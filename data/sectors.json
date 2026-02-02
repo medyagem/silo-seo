@@ -1,0 +1,20 @@
+{
+  "tesisat": {
+    "name": "Tesisat Hizmetleri",
+    "slug": "tesisat",
+    "services": [
+      "Su Tesisatçısı",
+      "Su Kaçağı Tespiti",
+      "Tıkanıklık Açma"
+    ]
+  },
+  "elektrik": {
+    "name": "Elektrik Hizmetleri",
+    "slug": "elektrik",
+    "services": [
+      "Elektrikçi",
+      "Acil Elektrikçi",
+      "Elektrik Arıza"
+    ]
+  }
+}
